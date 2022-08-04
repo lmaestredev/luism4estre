@@ -1,4 +1,4 @@
-<h2> Hello there! Welcome to my GitHub <<i>profile</i>></h2>
+<h2> Hello there! Welcome to my <<i>GitHub Profile</i>></h2>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
