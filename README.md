@@ -23,8 +23,5 @@ I am Luis. I am a Software Developer. I specialize in developing web apps. My ma
 - 💬 [![Linkedin Badge](https://img.shields.io/badge/-LuisMaestre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-maestre-621471200/)](https://www.linkedin.com/in/luis-maestre-621471200/) 
 [![Gmail Badge](https://img.shields.io/badge/-luisaugustomaestre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomaestre@gmail.com)](mailto:luisaugustomaestre@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@lamn04-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lamn04)](https://twitter.com/lamn04)
-- 🖼️ Portfolio site: <a href="https://luismaestre.netlify.app/" target="_blank">Portfolio</a>
+- 🖼️ Portfolio site: [My Portfolio](https://luismaestre.netlify.app/) 
 - 💎 Fun fact: Nothing is impossible, work hard and try it.
-
-
-/** [Portfolio](https://luismaestre.netlify.app/) **/
