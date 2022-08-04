@@ -14,7 +14,7 @@ I am Luis. I am a Software Developer. I specialize in developing web apps. My ma
 
 ## ⚡ Technologies 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Sass**
-- Backend development using **JAVA, SPRING BOOT, SPRGIN SECURITY SQL, POSTGRESQL, MICROSOFT SQL SERVER, MONGO DB**
+- Backend development using **JAVA, SPRING BOOT, SPRING SECURITY, SQL, POSTGRESQL, MICROSOFT SQL SERVER, MONGO DB**
 - Code versioner with **Git, GitHub, Gitlab**
 - Tools that I use to make code **VS Code, Intellij**
 
