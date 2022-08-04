@@ -13,8 +13,8 @@ I am Luis. A passionate Software Developer. I specialize in developing web apps 
 * Solving Data structure and algorithm questions in **Java**
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, Sass**
-- Backend development using **JAVA, SPRING BOOT, SPRING SECURITY, SQL, POSTGRESQL, MICROSOFT SQL SERVER, MONGO DB**
+- Front-end development using **Html, Javascript, Css, Bootstrap, Sass**
+- Backend development using **Java, Spring Boot, Spring Security, Sql, PostgreSql, Microsoft Sql Server, Mongo DB**
 - Code versioner with **Git, GitHub, Gitlab**
 - Tools that I use to make code **VS Code, Intellij**
 
