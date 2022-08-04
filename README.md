@@ -1,10 +1,10 @@
-<h2> Hello there! Welcome to my github <<i>profile</i>></h2>
+<h2> Hello there! Welcome to my Github <<i>profile</i>></h2>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
 I am Luis. I am a Software Developer. I specialize in developing web apps. My main focus is on solving problems, developing algorithms, and continuously learning 🏫.
 
-## 💻 What do I know?
+## 💻 What can I do?
 * I can take on client requirements
 * Analyze said requirements
 * Work in a team setting
