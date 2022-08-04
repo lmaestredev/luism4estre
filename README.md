@@ -3,9 +3,7 @@
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-maestre-621471200/)](https://www.linkedin.com/in/luis-maestre-621471200/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomaestre@gmail.com)](mailto:luisaugustomaestre@gmail.com)
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-Blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lamn04)](https://twitter.com/lamn04)
 
 I am Luis. I am a Software Developer. I specialize in developing web apps. My main focus is on solving problems, developing algorithms, and continuously learning 🏫.
