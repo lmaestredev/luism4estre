@@ -2,10 +2,6 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-maestre-621471200/)](https://www.linkedin.com/in/luis-maestre-621471200/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomaestre@gmail.com)](mailto:luisaugustomaestre@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-Blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lamn04)](https://twitter.com/lamn04)
-
 I am Luis. I am a Software Developer. I specialize in developing web apps. My main focus is on solving problems, developing algorithms, and continuously learning 🏫.
 
 ## 💻 What do I know?
@@ -23,6 +19,9 @@ I am Luis. I am a Software Developer. I specialize in developing web apps. My ma
 - Tools to make code **VS Code, Intellij**
 
 ## 👋 Reach out to me 
-- 💬 Ask me about anything.
+
+- 💬 [![Linkedin Badge](https://img.shields.io/badge/-LuisMaestre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-maestre-621471200/)](https://www.linkedin.com/in/luis-maestre-621471200/) 
+[![Gmail Badge](https://img.shields.io/badge/-luisaugustomaestre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomaestre@gmail.com)](mailto:luisaugustomaestre@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@lamn04-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lamn04)](https://twitter.com/lamn04)
 - 🖼️ Portfolio site: [Portfolio](https://)
 - 💎 Fun fact: Nothing is impossible, work hard and try it.
